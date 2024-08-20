@@ -65,3 +65,7 @@ button {
     cursor: pointer;
     margin: 0 auto;
 }
+
+button:active {
+    opacity: 0.5;
+}
